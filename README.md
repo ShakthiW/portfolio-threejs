@@ -1,8 +1,6 @@
 # 3D Portfolio Website with ThreeJS
 
-# 3D Portfolio Website
-
-<img width="1680" alt="Screenshot 2023-09-13 at 00 00 42" src="https://github.com/ShakthiW/portfolio-threejs/assets/115597935/62cf304d-7c16-4c0e-aa85-9e3bdb122955">
+<img width="1680" alt="Screenshot 2023-09-13 at 00 00 42" src="https://github.com/ShakthiW/portfolio-threejs/assets/115597935/c9003d6d-4f71-4d26-8fe6-821b2c9d8bd4">
 
 
 ## Description
